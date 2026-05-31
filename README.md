@@ -78,8 +78,8 @@ pdf-document-rag/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-document-rag.git
-cd pdf-document-rag
+git clone https://github.com/iamindra07/multi-agent-orchestration.git
+cd multi-agent-orchestration
 ```
 
 ### Create Virtual Environment
